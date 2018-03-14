@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="grupohie_nominaModelStoreContainer" CdmEntityContainer="grupohie_nominaEntities">
+    <EntitySetMapping Name="usuarios">
+      <EntityTypeMapping TypeName="grupohie_nominaModel.usuarios">
+        <MappingFragment StoreEntitySet="usuarios">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="usuario" ColumnName="usuario" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="empleados">
+      <EntityTypeMapping TypeName="grupohie_nominaModel.empleados">
+        <MappingFragment StoreEntitySet="empleados">
+          <ScalarProperty Name="actual" ColumnName="actual" />
+          <ScalarProperty Name="fecha_salida" ColumnName="fecha_salida" />
+          <ScalarProperty Name="fecha_entrada" ColumnName="fecha_entrada" />
+          <ScalarProperty Name="comida" ColumnName="comida" />
+          <ScalarProperty Name="san_mayo" ColumnName="san_mayo" />
+          <ScalarProperty Name="seguro_privado" ColumnName="seguro_privado" />
+          <ScalarProperty Name="horas_extras" ColumnName="horas_extras" />
+          <ScalarProperty Name="sueldo_bruto" ColumnName="sueldo_bruto" />
+          <ScalarProperty Name="ocupacion" ColumnName="ocupacion" />
+          <ScalarProperty Name="parte_atras" ColumnName="parte_atras" />
+          <ScalarProperty Name="sucursal" ColumnName="sucursal" />
+          <ScalarProperty Name="fecha_nac" ColumnName="fecha_nac" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="resultados">
+      <EntityTypeMapping TypeName="grupohie_nominaModel.resultados">
+        <MappingFragment StoreEntitySet="resultados">
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="neto_apagar3" ColumnName="neto_apagar3" />
+          <ScalarProperty Name="total_descuento2" ColumnName="total_descuento2" />
+          <ScalarProperty Name="otros" ColumnName="otros" />
+          <ScalarProperty Name="desayuno" ColumnName="desayuno" />
+          <ScalarProperty Name="san_mayo" ColumnName="san_mayo" />
+          <ScalarProperty Name="prestamo" ColumnName="prestamo" />
+          <ScalarProperty Name="comida" ColumnName="comida" />
+          <ScalarProperty Name="neto_apagar2" ColumnName="neto_apagar2" />
+          <ScalarProperty Name="total_decuento" ColumnName="total_decuento" />
+          <ScalarProperty Name="isr" ColumnName="isr" />
+          <ScalarProperty Name="seguro" ColumnName="seguro" />
+          <ScalarProperty Name="sfs" ColumnName="sfs" />
+          <ScalarProperty Name="afp" ColumnName="afp" />
+          <ScalarProperty Name="neto_apagar" ColumnName="neto_apagar" />
+          <ScalarProperty Name="horas_extras" ColumnName="horas_extras" />
+          <ScalarProperty Name="sueldo_bruto" ColumnName="sueldo_bruto" />
+          <ScalarProperty Name="sucursal2" ColumnName="sucursal2" />
+          <ScalarProperty Name="sucursal" ColumnName="sucursal" />
+          <ScalarProperty Name="ocupacion" ColumnName="ocupacion" />
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

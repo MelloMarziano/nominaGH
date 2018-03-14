@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NominaGH", "NominaGH\NominaGH.csproj", "{53EC2101-10F7-4711-B445-EFCCEC964160}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{FFC5D762-DD2C-480F-8DCE-91145D1D0A33}"
+	ProjectSection(SolutionItems) = preProject
+		NominaGH\Form1.cs = NominaGH\Form1.cs
+		NominaGH\Form1.Designer.cs = NominaGH\Form1.Designer.cs
+		NominaGH\Form1.resx = NominaGH\Form1.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EC2101-10F7-4711-B445-EFCCEC964160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EC2101-10F7-4711-B445-EFCCEC964160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EC2101-10F7-4711-B445-EFCCEC964160}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{53EC2101-10F7-4711-B445-EFCCEC964160}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EC2101-10F7-4711-B445-EFCCEC964160}.Release|Default.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal

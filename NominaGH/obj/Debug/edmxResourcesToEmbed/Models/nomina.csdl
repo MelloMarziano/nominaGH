@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="grupohie_nominaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="usuarios">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="usuario" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="clave" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="grupohie_nominaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="usuarios" EntityType="Self.usuarios" />
+    <EntitySet Name="empleados" EntityType="grupohie_nominaModel.empleados" />
+    <EntitySet Name="resultados" EntityType="grupohie_nominaModel.resultados" />
+  </EntityContainer>
+  <EntityType Name="empleados">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cedula" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="direccion" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="telefono" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_nac" Type="DateTime" Nullable="false" />
+    <Property Name="sucursal" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="parte_atras" Type="String" Nullable="false" MaxLength="75" FixedLength="false" Unicode="false" />
+    <Property Name="ocupacion" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="sueldo_bruto" Type="Decimal" Nullable="false" />
+    <Property Name="horas_extras" Type="Decimal" Nullable="false" />
+    <Property Name="seguro_privado" Type="Decimal" Nullable="false" />
+    <Property Name="san_mayo" Type="Decimal" Nullable="false" />
+    <Property Name="comida" Type="Boolean" Nullable="false" />
+    <Property Name="fecha_entrada" Type="DateTime" Nullable="false" />
+    <Property Name="fecha_salida" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="actual" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="resultados">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cedula" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="ocupacion" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="sucursal" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sucursal2" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sueldo_bruto" Type="Decimal" Nullable="false" />
+    <Property Name="horas_extras" Type="Decimal" Nullable="false" />
+    <Property Name="neto_apagar" Type="Decimal" Nullable="false" />
+    <Property Name="afp" Type="Decimal" Nullable="false" />
+    <Property Name="sfs" Type="Decimal" Nullable="false" />
+    <Property Name="seguro" Type="Decimal" Nullable="false" />
+    <Property Name="isr" Type="Decimal" Nullable="false" />
+    <Property Name="total_decuento" Type="Decimal" Nullable="false" />
+    <Property Name="neto_apagar2" Type="Decimal" Nullable="false" />
+    <Property Name="comida" Type="Decimal" Nullable="false" />
+    <Property Name="prestamo" Type="Decimal" Nullable="false" />
+    <Property Name="san_mayo" Type="Decimal" Nullable="false" />
+    <Property Name="desayuno" Type="Decimal" Nullable="false" />
+    <Property Name="otros" Type="Decimal" Nullable="false" />
+    <Property Name="total_descuento2" Type="Decimal" Nullable="false" />
+    <Property Name="neto_apagar3" Type="Decimal" Nullable="false" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" />
+  </EntityType>
+</Schema>

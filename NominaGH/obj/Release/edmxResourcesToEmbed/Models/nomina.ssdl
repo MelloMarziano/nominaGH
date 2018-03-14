@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="grupohie_nominaModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="empleados">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cedula" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="direccion" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="telefono" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="fecha_nac" Type="date" Nullable="false" />
+    <Property Name="sucursal" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="parte_atras" Type="varchar" MaxLength="75" Nullable="false" />
+    <Property Name="ocupacion" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="sueldo_bruto" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="horas_extras" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="seguro_privado" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="san_mayo" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="comida" Type="bool" Nullable="false" />
+    <Property Name="fecha_entrada" Type="date" Nullable="false" />
+    <Property Name="fecha_salida" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="actual" Type="bool" Nullable="false" />
+  </EntityType>
+  <EntityType Name="resultados">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cedula" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ocupacion" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="sucursal" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="sucursal2" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="sueldo_bruto" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="horas_extras" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="neto_apagar" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="afp" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="sfs" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="seguro" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="isr" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="total_decuento" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="neto_apagar2" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="comida" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="prestamo" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="san_mayo" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="desayuno" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="otros" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="total_descuento2" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="neto_apagar3" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="fecha" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="usuarios">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="usuario" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="clave" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="grupohie_nominaModelStoreContainer">
+    <EntitySet Name="empleados" EntityType="Self.empleados" Schema="grupohie_nomina" store:Type="Tables" />
+    <EntitySet Name="resultados" EntityType="Self.resultados" Schema="grupohie_nomina" store:Type="Tables" />
+    <EntitySet Name="usuarios" EntityType="Self.usuarios" Schema="grupohie_nomina" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

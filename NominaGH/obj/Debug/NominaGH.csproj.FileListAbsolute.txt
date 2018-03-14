@@ -1,0 +1,72 @@
+c:\users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe.config
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.pdb
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Form1.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Properties.Resources.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.csproj.GenerateResource.Cache
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.exe
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.pdb
+C:\Users\eliu\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Empleados.resources
+C:\Users\eliu\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\EntityFramework.dll
+C:\Users\eliu\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\EntityFramework.xml
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.Nomina.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.EditarNomina.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaCompleta.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe.config
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.exe
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.pdb
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.pdb
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\EntityFramework.dll
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\EntityFramework.xml
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.csprojResolveAssemblyReference.cache
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.EditarNomina.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Empleados.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Form1.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Properties.Resources.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.Nomina.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaCompleta.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.csproj.GenerateResource.Cache
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Reportes.reportes.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\RdlCompile.cache
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\RdlCompile.compiled
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Reportes.ReportPeque.resources
+C:\Users\Eliu Ortega\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaPeque.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Reportes.reportes.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Reportes.ReportPeque.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaPeque.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\RdlCompile.cache
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\RdlCompile.compiled
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe.manifest
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.application
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaAtras.resources
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.exe.manifest
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.application
+C:\Users\eliu\documents\visual studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.Login.resources
+C:\Users\eliu\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.csprojResolveAssemblyReference.cache
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe.config
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.exe
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.pdb
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe.manifest
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.application
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.exe
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\NominaGH.pdb
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\EntityFramework.dll
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\bin\Debug\EntityFramework.xml
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.csprojResolveAssemblyReference.cache
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Reportes.reportes.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Reportes.ReportPeque.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.EditarNomina.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Empleados.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Form1.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.Properties.Resources.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.Login.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.Nomina.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaAtras.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaCompleta.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.View.ReporteNominaPeque.resources
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.csproj.GenerateResource.Cache
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\RdlCompile.cache
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\RdlCompile.compiled
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.exe.manifest
+C:\Users\eliuo\Documents\Visual Studio 2013\Projects\NominaGH\NominaGH\obj\Debug\NominaGH.application
